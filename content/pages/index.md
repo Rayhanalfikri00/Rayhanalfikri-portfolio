@@ -17,9 +17,8 @@ sections:
       Rayhan Alfikri is a videographer and video editor who has experience in
       producing creative and impressive video works. 
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      He has worked in this field for several years and has excellent skills in
+      shooting, editing videos and producing compelling visual content.
     styles:
       self:
         height: auto
